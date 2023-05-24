@@ -1,0 +1,7 @@
+{
+  "name": "ramproyect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
